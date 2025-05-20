@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Swathika Balasubramanian]</h1>
+<h1 align="center">Hi 👋, I'm [Swathika]</h1>
 <h3 align="center">Aspiring Data Analyst | Skilled in SQL, Excel, Power BI, and Tableau</h3>
 
 <p align="center">
@@ -14,4 +14,39 @@
 
 - 🎓 Completed a **Data Analyst** course covering SQL, Excel, Power BI, and Tableau.
 - 🔍 Passionate about turning data into actionable insights.
-- 📈 Love building dashboards
+- 📈 Love building dashboards and visualizations that tell stories.
+- 🌱 Currently building real-world projects to strengthen my portfolio.
+- 💼 Looking for an **entry-level Data Analyst role** to kickstart my career.
+
+---
+
+## 💼 Skills
+
+| Tool          | Description                                       |
+|---------------|---------------------------------------------------|
+| **SQL**       | Data extraction, joins, subqueries, aggregations |
+| **Excel**     | Advanced formulas, pivot tables, dashboards      |
+| **Power BI**  | DAX, Power Query, data modeling, visuals         |
+| **Tableau**   | Storytelling, filters, maps, charts              |
+
+---
+
+## 🧠 Projects
+
+### 📊Excel Dashboard 
+**Description**: Built a dynamic Call center report dashboard to visualize KPIs by call volumes, customer satisfaction, and financial performance.
+![swathi excel dashboard screenshot](https://github.com/user-attachments/assets/297231c1-54b7-439c-9d32-406f1b4b7e7c)
+
+
+---
+
+### 🗂 SQL Walmart Sales Data Analysis 
+**Description**: Wrote SQL queries to analyze data from Walmart Sales data to understand top performing branches and products, sales trend of different products, customer behaviour.
+https://github.com/Swathi9915/Swathi_sql_sales_P1/blob/main/Walmart%20sales%20analysis.sql
+
+
+## What I’m Learning Now
+
+- Power BI advanced DAX modeling
+
+- Real-world business case studies
