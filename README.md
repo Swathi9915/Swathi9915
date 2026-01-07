@@ -44,6 +44,9 @@
 **Description**: Wrote SQL queries to analyze data from Walmart Sales data to understand top performing branches and products, sales trend of different products, customer behaviour.
 https://github.com/Swathi9915/Swathi_sql_sales_P1/blob/main/Walmart%20sales%20analysis.sql
 
+### Netflix Dashboard (Interactive Dashboard creation using Tableau)📊
+**Description**: A data visualization project created in Tableau using Netflix dataset. The dashboard helps users understand patterns in Netflix’s movies and TV shows through interactive charts and filters.
+<img width="1918" height="842" alt="Screenshot 2026-01-06 153018" src="https://github.com/user-attachments/assets/924dd5ef-46e9-40d7-8079-e1b8f5456bb3" />
 
 ## What I’m Learning Now
 
